@@ -1,0 +1,1 @@
+# dx-nft-collection-minter-sc
